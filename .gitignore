@@ -1,0 +1,9 @@
+.history/
+node_modules/
+npm-debug.log
+.idea/
+unpackage/
+.vscode
+package-lock.json
+.gitkeep
+.DS_Store

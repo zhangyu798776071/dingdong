@@ -1,0 +1,11 @@
+node_modules/
+unpackage/
+manifest.json
+pages.json
+common/qqmap-wx-jssdk.js
+common/pingpp.js
+common/moment.min.js
+common/locale/
+common/weapp.qrcode.min.js
+common/painter/
+wxcomponents/
